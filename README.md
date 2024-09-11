@@ -1,24 +1,45 @@
-### Olá, meu nome é Rafael👋
+# 👋 Olá, meu nome é Rafael!
 
+🚀 **Desenvolvedor e Estudante de Engenharia de Computação**  
+🎓 Apaixonado por tecnologia, sempre buscando novos desafios e soluções criativas!
 
-###### Sobre o Pedro
-Estudante de Engnharia de Computação.
-Desenvolvedor de Sistemas Computacionais.
-Possuo experêcia com C, JavaScript e Arduino.
+---
 
-### Detalhes
+## 🧑‍💻 Sobre Mim
+- 🎯 Estudante de **Engenharia de Computação**  
+- 💻 Desenvolvedor focado em **Sistemas Computacionais**  
+- 🛠️ Experiência com **C**, **JavaScript** e **Arduino**  
+- 📚 Sempre aprendendo algo novo e contribuindo para a comunidade open-source!
 
-[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=rrafaelbrandao&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+---
 
-### Projetos
+## 📊 Estatísticas do GitHub
 
-[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=rrafaelbrandao&repo=variavel&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrafaelbrandao&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### Linguagens utilizadas
+---
 
-[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=rrafaelbrandao&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
+## 📌 Principais Projetos
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rrafaelbrandao&repo=variavel&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### Contatos
+---
 
-[img src='httpsimg.shields.iobadgeLinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'](https://www.linkedin.com/in/rrafaelbrandao/)
+## 🔥 Linguagens Mais Usadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrafaelbrandao&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🤝 Entre em Contato!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rrafaelbrandao/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rrafael_brandao@icloud.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rrafael_brandao/)
+
+---
+
+## ⚡ Curiosidades
+- 🌱 Atualmente aprendendo **React** e **Node.js**  
+- 🎮 Adoro jogar videogames e resolver quebra-cabeças  
+- 🌍 Interessado em projetos de impacto social e sustentabilidade  
