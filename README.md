@@ -1,15 +1,15 @@
 # 👋 Olá, meu nome é Rafael!
 
-🚀 **Desenvolvedor e Estudante de Engenharia de Computação**  
+🚀 **Desenvolvedor e Estudante de Engenharia de Software**  
 🎓 Apaixonado por tecnologia, sempre buscando novos desafios e soluções criativas!
 
 ---
 
 ## 🧑‍💻 Sobre Mim
-- 🎯 Estudante de **Engenharia de Computação**  
-- 💻 Desenvolvedor focado em **Sistemas Computacionais**  
-- 🛠️ Experiência com **C**, **JavaScript** e **Arduino**  
-- 📚 Sempre aprendendo algo novo e contribuindo para a comunidade open-source!
+- 🎯 Estudante de **Engenharia de Software**  
+- 💻 Desenvolvedor focado em **Back-end**  
+- 🛠️ Experiência com **C**, **Python** e **Java**  
+- 📚 Buscando aprender e me especializar em IA
 
 ---
 
