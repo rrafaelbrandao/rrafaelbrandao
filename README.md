@@ -1,45 +1,27 @@
-# 👋 Olá, meu nome é Rafael!
+# Olá, eu sou o Rafael Brandão! 👋
 
-🚀 **Desenvolvedor e Estudante de Engenharia de Software**  
-🎓 Apaixonado por tecnologia, sempre buscando novos desafios e soluções criativas!
+Estudante de Engenharia de Software focado no ecossistema de inteligência artificial, dados e desenvolvimento Back-End com Python. Atualmente, concilio minha experiência prática em infraestrutura de TI com o estudo aprofundado de Programação Orientada a Objetos (POO), Algoritmos e Machine Learning.
 
----
+## 🎯 Foco de Estudo Atual & Portfólio em Construção
+Sigo a metodologia de desenvolver e publicar um projeto prático ao final de cada módulo de estudo concluído. 
 
-## 🧑‍💻 Sobre Mim
-- 🎯 Estudante de **Engenharia de Software**  
-- 💻 Desenvolvedor focado em **Back-end**  
-- 🛠️ Experiência com **C**, **Python** e **Java**  
-- 📚 Buscando aprender e me especializar em IA
-
----
-
-## 📊 Estatísticas do GitHub
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrafaelbrandao&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+- [⚙️] **Fundamentos & Algoritmos:** Domínio de lógica estruturada e resolução de problemas complexos.
+  - *Destaque:* 🥈 Certificação Nível Prata em **Linguagem C** no HackerRank.
+- [🔄] **Python & POO:** Desenvolvimento de sistemas aplicando os pilares de Orientação a Objetos.
+- [⏳] **IA & Machine Learning:** Projetos de análise preditiva e manipulação de dados em andamento.
 
 ---
 
-## 📌 Principais Projetos
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Python (Foco em POO), C (Algoritmos e Estrutura de Dados), Java.
+- **Data Science & IA (Estudando):** Manipulação de dados e modelos estatísticos.
+- **Controle de Versão:** Git & GitHub.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rrafaelbrandao&repo=variavel&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+## 🏆 Certificações em Destaque
+- **HackerRank:** Silver Badge em Linguagem C.
+- **PUC Minas:** Extensão em Desenvolvedor de Sistemas Computacionais.
+- **Fundação Bradesco:** Introdução à Programação Orientada a Objetos.
 
----
-
-## 🔥 Linguagens Mais Usadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrafaelbrandao&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 🤝 Entre em Contato!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rrafaelbrandao/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rrafael_brandao@icloud.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rrafael_brandao/)
-
----
-
-## ⚡ Curiosidades
-- 🌱 Atualmente aprendendo **React** e **Node.js**  
-- 🎮 Adoro jogar videogames e resolver quebra-cabeças  
-- 🌍 Interessado em projetos de impacto social e sustentabilidade  
+## 📬 Conecte-se comigo
+- **LinkedIn:** [Seu Link do LinkedIn aqui]
+- **E-mail:** rrafael_brandao@icloud.com
