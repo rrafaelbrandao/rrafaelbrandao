@@ -1,27 +1,86 @@
-# Olá, eu sou o Rafael Brandão! 👋
+# Olá, eu sou o Rafael Brandão! 👋⚡
 
-Estudante de Engenharia de Software focado no ecossistema de inteligência artificial, dados e desenvolvimento Back-End com Python. Atualmente, concilio minha experiência prática em infraestrutura de TI com o estudo aprofundado de Programação Orientada a Objetos (POO), Algoritmos e Machine Learning.
+```python
+class Rafael:
+    def __init__(self):
+        self.role = "Back-End Developer em formação"
+        self.education = "Engenharia de Software @ UNINTER"
+        self.location = "Belo Horizonte, MG 🇧🇷"
+        self.focus = ["Python", "IA & Machine Learning", "Cloud (AWS)"]
 
-## 🎯 Foco de Estudo Atual & Portfólio em Construção
-Sigo a metodologia de desenvolver e publicar um projeto prático ao final de cada módulo de estudo concluído. 
+    def say_hi(self):
+        print("Bem-vindo(a) ao meu GitHub! Bora construir algo juntos? 🚀")
 
-- [⚙️] **Fundamentos & Algoritmos:** Domínio de lógica estruturada e resolução de problemas complexos.
-  - *Destaque:* 🥈 Certificação Nível Prata em **Linguagem C** no HackerRank.
-- [🔄] **Python & POO:** Desenvolvimento de sistemas aplicando os pilares de Orientação a Objetos.
-- [⏳] **IA & Machine Learning:** Projetos de análise preditiva e manipulação de dados em andamento.
+me = Rafael()
+me.say_hi()
+```
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** Python (Foco em POO), C (Algoritmos e Estrutura de Dados), Java.
-- **Data Science & IA (Estudando):** Manipulação de dados e modelos estatísticos.
-- **Controle de Versão:** Git & GitHub.
+## 🧑‍🚀 Sobre mim
 
-## 🏆 Certificações em Destaque
-- **HackerRank:** Silver Badge em Linguagem C.
-- **PUC Minas:** Extensão em Desenvolvedor de Sistemas Computacionais.
-- **Fundação Bradesco:** Introdução à Programação Orientada a Objetos.
+🎓 Estudante de **Engenharia de Software** — UNINTER (conclusão em 2027)
 
-## 📬 Conecte-se comigo
-- **LinkedIn:** [Seu Link do LinkedIn aqui]
-- **E-mail:** rrafael_brandao@icloud.com
+🛠️ Experiência real em **Suporte de TI** — de ambientes corporativos a hospitais, onde sistema parado não é opção
+
+🐍 Especializando-me em **Back-End com Python**, com foco em POO e boas práticas
+
+🤖 Explorando **Inteligência Artificial** e **Machine Learning**
+
+☁️ Estudando **AWS** rumo à certificação Cloud Practitioner
+
+💡 Construindo um projeto SaaS próprio no setor financeiro — aprendizado na prática, todos os dias
+
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+<div align="center">
+  <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="C" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="FastAPI" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
+  <img align="center" alt="SQLite" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+  <img align="center" alt="Git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Linux" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="AWS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+</div>
+
+---
+
+## 📊 Minhas estatísticas
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&locale=pt-br">
+</div>
+
+---
+
+## 🎯 2026 em foco
+
+- [x] Concluir Formação Python Fundamentals (DIO)
+- [ ] Certificação AWS Cloud Practitioner
+- [ ] Publicar projetos Back-End com Python + FastAPI
+- [ ] Aprofundar em Machine Learning com Python (HarvardX)
+- [ ] Primeira oportunidade como dev Back-End 🚀
+
+---
+
+## 🤝 Vamos nos conectar?
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rrafaelbrandao)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rrafael_brandao@icloud.com)
+
+</div>
+
+<div align="center">
+
+💬 *"Tecnologia boa é aquela que resolve problemas reais."*
+
+⭐ Obrigado pela visita — e que a força do código esteja com você!
+
+</div>
